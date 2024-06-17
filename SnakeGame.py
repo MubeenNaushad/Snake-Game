@@ -1,6 +1,3 @@
-# Simple Snake Game in Python 3 for Beginners
-# By @Mubeen
-
 import turtle
 import time
 import random
